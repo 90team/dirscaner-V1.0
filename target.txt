@@ -1,7 +1,1 @@
-http://zj10086.test.zj.chinamobile.com
-http://10086.zj.chinamobile.com
-http://zj10086.zj.chinamobile.com
-http://zj10086.zj.chinamobile.com
-http://zj10086.zj.chinamobile.com
-http://221.181.128.141:28080
-http://221.181.128.141:28080
+http://127.0.0.1
